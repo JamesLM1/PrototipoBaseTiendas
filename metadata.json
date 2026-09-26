@@ -1,0 +1,6 @@
+{
+  "name": "MiBazarPE - Cuentas Corrientes Comerciales",
+  "description": "Plataforma web de gestión de cuentas corrientes y créditos comerciales para bazares, con liquidación a fin de mes, crédito en cuotas por método francés y cálculo de intereses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
